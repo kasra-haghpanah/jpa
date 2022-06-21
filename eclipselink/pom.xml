@@ -25,7 +25,7 @@
 
         <scala.version>2.10.4</scala.version>
         <guice.version>4.2.0</guice.version>
-        <mysql.version>5.1.36</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <eclipselink.version>2.6.0</eclipselink.version>
         <guice-validator.version>1.2.0</guice-validator.version>
         <hibernate-validator.version>5.4.1.Final</hibernate-validator.version>
